@@ -304,4 +304,4 @@ if (msg.content === prefix + 'sunucubilgi') {
 
 });
 
-client.login(ayarlar.token);
+client.login(process.env.BOT_TOKEN);
