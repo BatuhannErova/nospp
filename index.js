@@ -85,7 +85,7 @@ if (msg.content === prefix + 'sunucubilgi') {
     msg.reply('Ping Değeriniz! **' + client.ping + '** ms');
   }
   if (msg.content.toLowerCase() === prefix + 'mert') {
-    msg.reply('Yakışıklı Karizmatik Tam Bir Kız Avcısı :)');
+    msg.reply('Yakışıklı Karizmatik Tam Bir Kız Avcısı :) Patron Reisdir Artistlik Yapmayın Kafa Kesiyor');
   }
   if (msg.content.toLowerCase() === prefix + 'batuhan') {
     msg.reply('Sanırsam Biraz Manyak Biraz Deli Ama Dürüst Adamdır');
@@ -115,7 +115,7 @@ if (msg.content === prefix + 'sunucubilgi') {
     msg.reply('Artık Sekunun Saçlarını Bırak :)');
   }
   if (msg.content.toLowerCase() === prefix + 'şura') {
-    msg.reply('Hollandalı Kıza Bak Sen Ablanı Merte Ver Kız');
+    msg.reply('Hollandanın Çayır Başı Güllerindendir Kendisi :)');
   }
   if (msg.content.toLowerCase() === prefix + 'alihan') {
     msg.reply('Ah Bide Online Olsa');
@@ -241,7 +241,7 @@ if (msg.content === prefix + 'sunucubilgi') {
     msg.reply('Ah Bide Online Olsa');
   }
   if (msg.content.toLowerCase() === prefix + 'mustafa') {
-    msg.reply('Çok Boş Yapıosun Yapma Aslanım :)');
+    msg.reply('Öpücük Balığı Bey :)');
   }
   if (msg.content.toLowerCase() === prefix + 'aslı') {
     msg.reply('Garadeniz Uşağudur Gendisi Biraz Uzak Dur Assanım :)');
@@ -299,6 +299,12 @@ if (msg.content === prefix + 'sunucubilgi') {
   }
   if (msg.content.toLowerCase() === prefix + 'mertkaccm') {
     msg.reply('Lan Gücücükya Lan Allah Cezanı Versin :)');
+  }
+  if (msg.content.toLowerCase() === prefix + 'ayşenur') {
+    msg.reply('Havalanma Havalarını Alırız :)');
+  }
+  if (msg.content.toLowerCase() === prefix + 'mevlüt') {
+    msg.reply('Mevlüt Ne Zaman?');
   }
   
 
